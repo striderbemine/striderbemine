@@ -1,5 +1,5 @@
 <p align="center">
-<img width="114" height="20" alt="IMG_3774" src="https://files.catbox.moe/k48kyn.png" />
+<img width="100" height="100" alt="IMG_3774" src="https://files.catbox.moe/k48kyn.png" />
 
 <p align="center">
 <img width="400" height="225" alt="0E2634F9-B247-4DA2-A551-BB7662366850" src="[https://github.com/user-attachments/assets/6240e62c-26be-4b77-b521-696347d8866c](https://files.catbox.moe/k48kyn.png)" />
